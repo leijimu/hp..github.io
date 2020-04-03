@@ -14,6 +14,3 @@
 + <a href="https://www.movlogo.com/" title="电影公司标志" target="_blank">MOVLOGO www.movlogo.com</a>
 + <a href="https://www.toso.xyz/" title="toso" target="_blank">TOSO www.toso.xyz</a>
 + <a href="https://www.csp.xyz/" title="CSP" target="_blank">CSP www.csp.xyz</a>
-
-
-<div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ0NzIyMA==' border='0' alt='logo creation'></a></div>

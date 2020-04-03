@@ -1,8 +1,8 @@
 # 面对困难，再坚持一会儿，就会习惯的。
 
 <li><a href="https://www.duanzixing.com/" title="段子星" target="_blank">段子星 www.duanzixing.com</a></li>
-<li><a href="https://www.leijimu.com/" title="雷击木">雷击木 www.leijimu.com</a></li>
-<li><a href="https://www.mainrico.xyz/" title="丹熏山">丹熏山 www.mainrico.xyz</a></li>
+<li><a href="https://www.leijimu.com/" title="雷击木" target="_blank">雷击木 www.leijimu.com</a></li>
+<li><a href="https://www.mainrico.xyz/" title="丹熏山" target="_blank">丹熏山 www.mainrico.xyz</a></li>
 <li><a href="https://www.spreadqd.com/" title="斯普瑞德" target="_blank">斯普瑞德 www.spreadqd.com</a></li>
 <li><a href="https://www.8wms.com/" title="8WMS" target="_blank">8WMS www.8wms.com</a></li>
 <li><a href="https://www.gugegt.com/" title="gugegt" target="_blank">gugegt www.gugegt.com</a></li>

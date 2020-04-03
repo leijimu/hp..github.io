@@ -1,4 +1,4 @@
-## 每天用着6位数的密码守护着2位数的存款
+## 不知不觉潮流变成了怀旧
 
 **2020-4-3**
 + <a href="https://www.duanzixing.com/" title="段子星" target="_blank">段子星 www.duanzixing.com</a>

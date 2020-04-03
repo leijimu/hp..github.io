@@ -16,4 +16,4 @@
 + <a href="https://www.csp.xyz/" title="CSP" target="_blank">CSP www.csp.xyz</a>
 
 
-<div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ0NzIyMA==' border='0' alt='logo creation'></a><BR><a href='https://www.glowgraphics.co.uk/'>logo creation</a></div>
+<div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ0NzIyMA==' border='0' alt='logo creation'></a></div>

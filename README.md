@@ -1,7 +1,8 @@
 # 面对困难，再坚持一会儿，就会习惯的。
 
 1. <a href="https://www.duanzixing.com/" title="段子星" target="_blank">段子星 www.duanzixing.com</a>
-  1. <a href="https://www.duanzixing.com/dujitang" title="干了这碗毒鸡汤" target="_blank">干了这碗毒鸡汤 www.duanzixing.com/dujitang</a>
+
+  - <a href="https://www.duanzixing.com/dujitang" title="干了这碗毒鸡汤" target="_blank">干了这碗毒鸡汤 www.duanzixing.com/dujitang</a>
 
 2. <a href="https://www.leijimu.com/" title="雷击木" target="_blank">雷击木 www.leijimu.com</a>
 3. <a href="https://www.mainrico.xyz/" title="丹熏山" target="_blank">丹熏山 www.mainrico.xyz</a>

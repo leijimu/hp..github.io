@@ -7,7 +7,7 @@
 + <a href="https://www.mainrico.xyz/" title="丹熏山" target="_blank">丹熏山 www.mainrico.xyz</a>
 + <a href="https://www.spreadqd.com/" title="斯普瑞德" target="_blank">斯普瑞德 www.spreadqd.com</a>
 + <a href="https://www.8wms.com/" title="8WMS" target="_blank">8WMS www.8wms.com</a>
-+ <a href="https://www.gugegt.com/" title="gugegt" target="_blank"><gugegt www.gugegt.com</a>
++ <a href="https://www.gugegt.com/" title="gugegt" target="_blank">gugegt www.gugegt.com</a>
 + <a href="https://www.bencaozhonghua.com/" title="本草中华" target="_blank">本草中华 www.bencaozhonghua.com</a>
 + <a href="https://appgame.wang/" title="AppGame" target="_blank">AppGame www.appgame.wang</a>
 + <a href="https://www.liuxia100.com/" title="liuxia100" target="_blank">liuxia100 www.liuxia100.com</a>

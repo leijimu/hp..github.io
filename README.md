@@ -1,7 +1,7 @@
 ## 不知不觉潮流变成了怀旧
 
 **2020-4-3**
-+ <a href="https://www.duanzixing.com/" title="段子星" target="_blank">段子星 www.duanzixing.com</a>
++ <img src="https://www.duanzixing.com/favicon.png" height="32px" /><a href="https://www.duanzixing.com/" title="段子星" target="_blank">段子星 www.duanzixing.com</a>
   - <a href="https://www.duanzixing.com/dujitang" title="干了这碗毒鸡汤" target="_blank">干了这碗毒鸡汤 www.duanzixing.com/dujitang</a>
 + <a href="https://www.leijimu.com/" title="雷击木" target="_blank">雷击木 www.leijimu.com</a>
 + <a href="https://www.mainrico.xyz/" title="丹熏山" target="_blank">丹熏山 www.mainrico.xyz</a>

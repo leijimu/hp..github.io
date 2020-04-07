@@ -21,3 +21,7 @@
 + <a href="https://www.crh.xyz/" title="CRH下一站" target="_blank">CRH下一站 www.crh.xyz</a>
 + <a href="https://www.mainri.xyz/" title="梅里雪山" target="_blank">梅里雪山 www.mainri.xyz</a>
 + <a href="https://www.dwt.xyz/" title="DWT" target="_blank">DWT www.dwt.xyz</a>
+
+**2020-4-7**
+
++ <a href="https://www.bingyou.xyz/" title="病友" target="_blank">病友 www.bingyou.xyz</a>

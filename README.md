@@ -24,4 +24,4 @@
 
 **2020-4-7**
 
-+ <a href="https://www.bingyou.xyz/" title="病友" target="_blank">病友 www.bingyou.xyz</a>
++ <a href="https://www.bingyou.xyz/" title="病友小院子" target="_blank">病友小院子 www.bingyou.xyz</a>
